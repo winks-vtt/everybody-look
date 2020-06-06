@@ -18,11 +18,11 @@ function getContextOption(idField) {
         }
     };
 }
+
 Hooks.on("getSceneNavigationContext", (html, contextOptions) => {
     contextOptions.push(getContextOption('sceneId'));
 });
 
 Hooks.on("getSceneDirectoryEntryContext", (html, contextOptions) => {
-    console.log('getting context', contextOptions);
     contextOptions.push(getContextOption('entityId'));
 });
