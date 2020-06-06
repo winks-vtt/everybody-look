@@ -1,0 +1,16 @@
+{
+    "name": "everybody-look",
+    "title": "Everybody Look",
+    "description": "Let GMs quickly gather all players to a particular scene regardless if it's active or not.",
+    "author": "Winks",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.6.1",
+    "languages": [{
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json"
+    }],
+    "scripts": [
+        "scripts/everybodylook.js"
+    ]
+}
