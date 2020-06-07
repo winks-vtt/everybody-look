@@ -1,5 +1,5 @@
 # Everybody Look
-This is a Foundry VTT module for pulling *every* player to a specific scene. If you have a large party and they are across various scenes, this adds a shortcut to pull the part together quickly  and easily.
+This is a Foundry VTT module for pulling *every* player to a specific scene. If you have a large party and they are across various scenes, this adds a shortcut to pull the party together quickly  and easily.
 
 
 # Installation
