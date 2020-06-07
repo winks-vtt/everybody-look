@@ -13,5 +13,7 @@
     }],
     "scripts": [
         "scripts/everybodylook.js"
-    ]
+    ],
+    "manifest": "https://raw.githubusercontent.com/winks-vtt/everybody-look/master/module.json",
+    "download": "https://github.com/winks-vtt/everybody-look/archive/v1.0.0.zip"
 }
