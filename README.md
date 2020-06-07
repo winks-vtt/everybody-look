@@ -17,7 +17,7 @@ When bringing up the context menu in the scene navigation bar or directory tab, 
 ![Example 2](https://github.com/winks-vtt/everybody-look/blob/master/images/everybodylook2.gif)
 
 # Support
-For questions, feature requests, or bug reports, feel free to contact me the Foundry Discord (Winks#1731) or open an issue here directly.
+For questions, feature requests, or bug reports, feel free to contact me on the Foundry Discord (Winks#1731) or open an issue here directly.
 
 # License
 This Foundry VTT module, writen by Winks, is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
