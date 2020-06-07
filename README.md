@@ -12,9 +12,9 @@ This is a Foundry VTT module for pulling *every* player to a specific scene. If 
 
 When bringing up the context menu in the scene navigation bar or directory tab, you can click **Pull All To Scene** to grab everyone currently in the game and put them onto the target scene.
 
-![Example 1](https://raw.githubusercontent.com/winks-vtt/everybody-look/master/images/everybodylook.gif)
+![Example 1](https://github.com/winks-vtt/everybody-look/blob/master/images/everybodylook.gif)
 
-![Example 2](https://raw.githubusercontent.com/winks-vtt/everybody-look/master/images/everybodylook2.gif)
+![Example 2](https://github.com/winks-vtt/everybody-look/blob/master/images/everybodylook2.gif)
 
 # Support
 For questions, feature requests, or bug reports, feel free to contact me the Foundry Discord (Winks#1731) or open an issue here directly.
