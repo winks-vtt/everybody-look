@@ -16,6 +16,13 @@ When bringing up the context menu in the scene navigation bar or directory tab, 
 
 ![Example 2](https://github.com/winks-vtt/everybody-look/blob/master/images/everybodylook2.gif)
 
+# Changelog
+### 1.0.1
+- Added Portuguese Brazil language support (thanks to @rinnocenti)
+
+### 1.0.0
+- Initial Release
+
 # Support
 For questions, feature requests, or bug reports, feel free to contact me on the Foundry Discord (Winks#1731) or open an issue here directly.
 
