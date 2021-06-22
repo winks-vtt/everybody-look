@@ -3,9 +3,9 @@
     "title": "Everybody Look",
     "description": "Let GMs quickly gather all players to a particular scene regardless if it's active or not.",
     "author": "Winks",
-    "version": "1.0.1",
-    "minimumCoreVersion": "0.6.0",
-    "compatibleCoreVersion": "0.6.5",
+    "version": "2.0.0",
+    "minimumCoreVersion": "0.8.7",
+    "compatibleCoreVersion": "0.8.7",
     "languages": [{
             "lang": "en",
             "name": "English",
@@ -21,5 +21,5 @@
         "scripts/everybodylook.js"
     ],
     "manifest": "https://raw.githubusercontent.com/winks-vtt/everybody-look/master/module.json",
-    "download": "https://github.com/winks-vtt/everybody-look/archive/v1.0.1.zip"
+    "download": "https://github.com/winks-vtt/everybody-look/archive/v2.0.0.zip"
 }
