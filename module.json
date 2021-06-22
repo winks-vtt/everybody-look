@@ -7,10 +7,16 @@
     "minimumCoreVersion": "0.6.0",
     "compatibleCoreVersion": "0.6.5",
     "languages": [{
-        "lang": "en",
-        "name": "English",
-        "path": "lang/en.json"
-    }],
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        },
+        {
+            "lang": "pt-BR",
+            "name": "Brazilian Portuguese",
+            "path": "lang/pt-br.json"
+        }
+    ],
     "scripts": [
         "scripts/everybodylook.js"
     ],
